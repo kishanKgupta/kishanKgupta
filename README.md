@@ -64,7 +64,9 @@ A personal portfolio website showcasing my projects, skills, and achievements.
 ---
 
 🌟 "Passionate about learning, building, and sharing knowledge. Together, let's create something impactful!"  
+## 🏆 Github Stats
 
+![Snake animation](https://github.com/kishanKgupta/kishanKgupta/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!---
 kishanKgupta/kishanKgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
